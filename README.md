@@ -13,9 +13,6 @@ I am full-time software developer and top rated freelancer on Upwork. I have abo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vazgen6&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <img src="https://raw.githubusercontent.com/vazgen6/vazgen6/main/incredible.jpg" width="512px"/>
 
 ---
