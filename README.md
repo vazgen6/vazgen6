@@ -16,8 +16,7 @@ I am full-time software developer and top rated freelancer on Upwork. I have abo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://raw.githubusercontent.com/vazgen6/vazgen6/main/incredible.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vazgen6&icon=0&color=1)](https://visitcount.itsvg.in)
