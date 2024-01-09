@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am full-time software developer and top rated freelancer on Upwork. I have about 6 years of experience in software development, with solid SDLC, OOP, functional programming and code organization skills.<br><br>I started programming because I loved it. Started by writing simple programs in C/ C++ and Assembly Language, now I'm specialized in developing Progressive Web Applications using Angular as my Frontend framework and Node.js for my server side work, passionate about cloud technologies and security.<br><br>I am free(libre) software activist and consider myself life-long learner.<br><br>LinkedIn: https://www.linkedin.com/in/vazgen-sargisian-b71180187/
+I am a passionate full-stack software engineer holding a BS in Computer Science, backed by a solid 6-year track record in software development.
+
+Driven by a commitment to lifelong learning, I consistently seek opportunities to expand my horizons and stay at the forefront of industry trends.
+
+<br><br>LinkedIn: https://www.linkedin.com/in/vazgen-sargisian-b71180187/
 <br>Credly: https://www.credly.com/users/vazgen/badges
 <br>Medium: https://vazgen6.medium.com/
 <br>Hackerrank: https://www.hackerrank.com/vazgen6
