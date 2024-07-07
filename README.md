@@ -6,8 +6,6 @@ Driven by a commitment to lifelong learning, I consistently seek opportunities t
 <br><br>LinkedIn: https://www.linkedin.com/in/vazgen-sargisian-b71180187/
 <br>Credly: https://www.credly.com/users/vazgen/badges
 <br>Medium: https://vazgen6.medium.com/
-<br>Hackerrank: https://www.hackerrank.com/vazgen6
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamvazgen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vazgen-sargisian-b71180187/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11579692) 
