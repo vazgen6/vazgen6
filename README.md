@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate full-stack software engineer holding a BS in Computer Science, backed by a solid 6-year track record in software development.
+I am a passionate full-stack software engineer holding a BS in Computer Science, backed by a solid 8-year track record in software development.
 
 Driven by a commitment to lifelong learning, I consistently seek opportunities to expand my horizons and stay at the forefront of industry trends.
 
