@@ -3,7 +3,6 @@ I am a passionate full-stack software engineer holding a BS in Computer Science,
 
 Driven by a commitment to lifelong learning, I consistently seek opportunities to expand my horizons and stay at the forefront of industry trends.
 
-<br><br>LinkedIn: https://www.linkedin.com/in/vazgen-sargisian-b71180187/
 <br>Credly: https://www.credly.com/users/vazgen/badges
 <br>Medium: https://vazgen6.medium.com/
 
